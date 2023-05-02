@@ -1,2 +1,4 @@
 # Wochenberichtapp-version-4 - XReports
 Ein app die auf Python Entwicklet würde, um das Schreiben des Wochenberichts zu vereinfachen. | An app developed in Python, to simplify the writing of the weekly report.
+
+XReports is a report app designed to help trainees easily create, store, and share their progress reports. With XReports, trainees can create reports for their managers, instructors, or mentors, detailing their accomplishments, goals, and challenges. The app provides users with a simple and intuitive interface to quickly write and organize their reports, and offers customizable templates to make the process even faster. XReports also allows users to attach relevant files, images, and links to their reports, as well as invite others to view, edit, or comment on their reports. With XReports, trainees can stay organized, accountable, and on track to achieving their goals.
